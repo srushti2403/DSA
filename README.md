@@ -6,6 +6,7 @@ LeetCode
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/srushti2403/DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -27,9 +28,14 @@ LeetCode
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/srushti2403/DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/srushti2403/DSA/tree/master/0290-word-pattern) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/srushti2403/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
