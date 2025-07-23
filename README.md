@@ -6,6 +6,7 @@ LeetCode
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/srushti2403/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/srushti2403/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/srushti2403/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/srushti2403/DSA/tree/master/0169-majority-element) |
@@ -42,6 +43,7 @@ LeetCode
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/srushti2403/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/srushti2403/DSA/tree/master/0075-sort-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/srushti2403/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
