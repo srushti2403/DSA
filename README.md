@@ -14,6 +14,7 @@ LeetCode
 | [0075-sort-colors](https://github.com/srushti2403/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/srushti2403/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/srushti2403/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/srushti2403/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/srushti2403/DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Hash Table
@@ -32,6 +33,7 @@ LeetCode
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/srushti2403/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
