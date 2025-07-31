@@ -14,6 +14,7 @@ LeetCode
 | [0075-sort-colors](https://github.com/srushti2403/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/srushti2403/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
+| [0643-maximum-average-subarray-i](https://github.com/srushti2403/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/srushti2403/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/srushti2403/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/srushti2403/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -79,4 +80,8 @@ LeetCode
 | [0048-rotate-image](https://github.com/srushti2403/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/srushti2403/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/srushti2403/DSA/tree/master/0073-set-matrix-zeroes) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/srushti2403/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
