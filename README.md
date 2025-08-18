@@ -12,6 +12,7 @@ LeetCode
 | [0054-spiral-matrix](https://github.com/srushti2403/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/srushti2403/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/srushti2403/DSA/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/srushti2403/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/srushti2403/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/srushti2403/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -71,6 +72,7 @@ LeetCode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/srushti2403/DSA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/srushti2403/DSA/tree/master/0152-maximum-product-subarray) |
 ## Simulation
 |  |
 | ------- |
