@@ -31,6 +31,7 @@ LeetCode
 | ------- |
 | [0048-rotate-image](https://github.com/srushti2403/DSA/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/srushti2403/DSA/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@ LeetCode
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/srushti2403/DSA/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
@@ -84,4 +86,8 @@ LeetCode
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/srushti2403/DSA/tree/master/0643-maximum-average-subarray-i) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/srushti2403/DSA/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
