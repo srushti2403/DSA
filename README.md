@@ -12,6 +12,7 @@ LeetCode
 | [0054-spiral-matrix](https://github.com/srushti2403/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/srushti2403/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/srushti2403/DSA/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/srushti2403/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/srushti2403/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/srushti2403/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
@@ -41,6 +42,7 @@ LeetCode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/srushti2403/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/srushti2403/DSA/tree/master/0342-power-of-four) |
 ## Sorting
