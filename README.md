@@ -25,6 +25,7 @@ LeetCode
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/srushti2403/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/srushti2403/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/srushti2403/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/srushti2403/DSA/tree/master/0290-word-pattern) |
@@ -62,6 +63,7 @@ LeetCode
 | [0019-remove-nth-node-from-end-of-list](https://github.com/srushti2403/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/srushti2403/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/srushti2403/DSA/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/srushti2403/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/srushti2403/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -102,5 +104,6 @@ LeetCode
 | ------- |
 | [0002-add-two-numbers](https://github.com/srushti2403/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/srushti2403/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/srushti2403/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/srushti2403/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
