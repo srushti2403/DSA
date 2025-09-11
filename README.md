@@ -61,6 +61,7 @@ LeetCode
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/srushti2403/DSA/tree/master/0290-word-pattern) |
+| [2401-count-asterisks](https://github.com/srushti2403/DSA/tree/master/2401-count-asterisks) |
 ## Two Pointers
 |  |
 | ------- |
