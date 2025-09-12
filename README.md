@@ -19,6 +19,7 @@ LeetCode
 | [0643-maximum-average-subarray-i](https://github.com/srushti2403/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/srushti2403/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/srushti2403/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/srushti2403/DSA/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/srushti2403/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/srushti2403/DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Hash Table
@@ -45,6 +46,7 @@ LeetCode
 | ------- |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/srushti2403/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/srushti2403/DSA/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
