@@ -7,6 +7,7 @@ LeetCode
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/srushti2403/DSA/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/srushti2403/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/srushti2403/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/srushti2403/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/srushti2403/DSA/tree/master/0054-spiral-matrix) |
@@ -44,6 +45,7 @@ LeetCode
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/srushti2403/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/srushti2403/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/srushti2403/DSA/tree/master/0792-binary-search) |
