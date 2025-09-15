@@ -34,6 +34,7 @@ LeetCode
 | [0169-majority-element](https://github.com/srushti2403/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/srushti2403/DSA/tree/master/0290-word-pattern) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/srushti2403/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/srushti2403/DSA/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Math
 |  |
@@ -67,6 +68,7 @@ LeetCode
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/srushti2403/DSA/tree/master/0290-word-pattern) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/srushti2403/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2401-count-asterisks](https://github.com/srushti2403/DSA/tree/master/2401-count-asterisks) |
 ## Two Pointers
 |  |
