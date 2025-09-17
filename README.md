@@ -41,6 +41,7 @@ LeetCode
 | ------- |
 | [0002-add-two-numbers](https://github.com/srushti2403/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/srushti2403/DSA/tree/master/0048-rotate-image) |
+| [0263-ugly-number](https://github.com/srushti2403/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/srushti2403/DSA/tree/master/0342-power-of-four) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/srushti2403/DSA/tree/master/2824-check-if-the-number-is-fascinating) |
