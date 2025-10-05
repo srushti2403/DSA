@@ -77,6 +77,7 @@ LeetCode
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/srushti2403/DSA/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/srushti2403/DSA/tree/master/0290-word-pattern) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/srushti2403/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2401-count-asterisks](https://github.com/srushti2403/DSA/tree/master/2401-count-asterisks) |
@@ -147,6 +148,7 @@ LeetCode
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/srushti2403/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/srushti2403/DSA/tree/master/0234-palindrome-linked-list) |
 ## Prefix Sum
 |  |
