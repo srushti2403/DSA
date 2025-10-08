@@ -28,6 +28,7 @@ LeetCode
 | [0830-largest-triangle-area](https://github.com/srushti2403/DSA/tree/master/0830-largest-triangle-area) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/srushti2403/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/srushti2403/DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/srushti2403/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ LeetCode
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/srushti2403/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/srushti2403/DSA/tree/master/0792-binary-search) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/srushti2403/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -74,6 +76,7 @@ LeetCode
 | [0169-majority-element](https://github.com/srushti2403/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/srushti2403/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/srushti2403/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
 | ------- |
@@ -94,6 +97,7 @@ LeetCode
 | [0908-middle-of-the-linked-list](https://github.com/srushti2403/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/srushti2403/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/srushti2403/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/srushti2403/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
