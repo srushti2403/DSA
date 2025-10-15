@@ -28,6 +28,7 @@ LeetCode
 | [0830-largest-triangle-area](https://github.com/srushti2403/DSA/tree/master/0830-largest-triangle-area) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/srushti2403/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/srushti2403/DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2331-intersection-of-multiple-arrays](https://github.com/srushti2403/DSA/tree/master/2331-intersection-of-multiple-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/srushti2403/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ LeetCode
 | [0290-word-pattern](https://github.com/srushti2403/DSA/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/srushti2403/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/srushti2403/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2331-intersection-of-multiple-arrays](https://github.com/srushti2403/DSA/tree/master/2331-intersection-of-multiple-arrays) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/srushti2403/DSA/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Math
 |  |
@@ -76,6 +78,7 @@ LeetCode
 | [0169-majority-element](https://github.com/srushti2403/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/srushti2403/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [2331-intersection-of-multiple-arrays](https://github.com/srushti2403/DSA/tree/master/2331-intersection-of-multiple-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/srushti2403/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
@@ -107,6 +110,7 @@ LeetCode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/srushti2403/DSA/tree/master/0169-majority-element) |
+| [2331-intersection-of-multiple-arrays](https://github.com/srushti2403/DSA/tree/master/2331-intersection-of-multiple-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
