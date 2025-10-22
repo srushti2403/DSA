@@ -30,6 +30,7 @@ LeetCode
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/srushti2403/DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/srushti2403/DSA/tree/master/2331-intersection-of-multiple-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/srushti2403/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3227-find-missing-and-repeated-values](https://github.com/srushti2403/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ LeetCode
 | [1264-maximum-number-of-words-you-can-type](https://github.com/srushti2403/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2331-intersection-of-multiple-arrays](https://github.com/srushti2403/DSA/tree/master/2331-intersection-of-multiple-arrays) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/srushti2403/DSA/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3227-find-missing-and-repeated-values](https://github.com/srushti2403/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +57,7 @@ LeetCode
 | [0830-largest-triangle-area](https://github.com/srushti2403/DSA/tree/master/0830-largest-triangle-area) |
 | [1642-water-bottles](https://github.com/srushti2403/DSA/tree/master/1642-water-bottles) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/srushti2403/DSA/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3227-find-missing-and-repeated-values](https://github.com/srushti2403/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +131,7 @@ LeetCode
 | [0048-rotate-image](https://github.com/srushti2403/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/srushti2403/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/srushti2403/DSA/tree/master/0073-set-matrix-zeroes) |
+| [3227-find-missing-and-repeated-values](https://github.com/srushti2403/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
