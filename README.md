@@ -15,6 +15,7 @@ LeetCode
 | [0054-spiral-matrix](https://github.com/srushti2403/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/srushti2403/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/srushti2403/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/srushti2403/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/srushti2403/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/srushti2403/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/srushti2403/DSA/tree/master/0169-majority-element) |
@@ -79,6 +80,7 @@ LeetCode
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/srushti2403/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/srushti2403/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/srushti2403/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/srushti2403/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -98,6 +100,7 @@ LeetCode
 | [0019-remove-nth-node-from-end-of-list](https://github.com/srushti2403/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/srushti2403/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/srushti2403/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/srushti2403/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/srushti2403/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/srushti2403/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srushti2403/DSA/tree/master/0160-intersection-of-two-linked-lists) |
