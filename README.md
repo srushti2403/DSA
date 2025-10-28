@@ -51,6 +51,7 @@ LeetCode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/srushti2403/DSA/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/srushti2403/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/srushti2403/DSA/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/srushti2403/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
