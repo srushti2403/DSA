@@ -35,6 +35,7 @@ LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/srushti2403/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/srushti2403/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/srushti2403/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/srushti2403/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -52,6 +53,7 @@ LeetCode
 | ------- |
 | [0002-add-two-numbers](https://github.com/srushti2403/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/srushti2403/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/srushti2403/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/srushti2403/DSA/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/srushti2403/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
@@ -90,6 +92,7 @@ LeetCode
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/srushti2403/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/srushti2403/DSA/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/srushti2403/DSA/tree/master/0290-word-pattern) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/srushti2403/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
