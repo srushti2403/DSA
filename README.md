@@ -55,6 +55,7 @@ LeetCode
 | [0009-palindrome-number](https://github.com/srushti2403/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/srushti2403/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/srushti2403/DSA/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/srushti2403/DSA/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/srushti2403/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/srushti2403/DSA/tree/master/0342-power-of-four) |
@@ -69,6 +70,7 @@ LeetCode
 | [0033-search-in-rotated-sorted-array](https://github.com/srushti2403/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/srushti2403/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/srushti2403/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/srushti2403/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/srushti2403/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/srushti2403/DSA/tree/master/0792-binary-search) |
