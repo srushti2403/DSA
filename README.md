@@ -175,6 +175,7 @@ LeetCode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/srushti2403/DSA/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/srushti2403/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/srushti2403/DSA/tree/master/0234-palindrome-linked-list) |
 ## Prefix Sum
 |  |
@@ -196,4 +197,12 @@ LeetCode
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/srushti2403/DSA/tree/master/1908-recyclable-and-low-fat-products) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/srushti2403/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/srushti2403/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
