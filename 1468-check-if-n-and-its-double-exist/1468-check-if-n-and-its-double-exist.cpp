@@ -1,14 +1,28 @@
 class Solution {
 public:
     bool checkIfExist(vector<int>& arr) {
-        unordered_set<int> s;
+        sort(arr.begin(), arr.end());
+        int n = arr.size();
 
-        for (int num : arr){
-            if (s.count(2*num) || (num%2 == 0 && s.count(num/2))){
-                return true;
+        for (int i=0; i<n; ++i){
+            int low = 0, high = n-1;
+            int target = 2 * arr[i];
+            int left = 0, right = n-1;
+
+            while (left <= right){
+                int mid = left + (right-left) / 2;
+                if (mid == i) {
+                    if (arr[mid] < target) left = mid + 1;
+                    else right = mid - 1;
+                }
+                else if (arr[mid] == target) {
+                    return true;
+                }
+                else if (arr[mid] < target) {
+                    left = mid + 1;
+                }
+                else right = mid - 1;
             }
-            
-            s.insert(num);
         }
         return false;
     }
