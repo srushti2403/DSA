@@ -35,6 +35,7 @@ LeetCode
 | [2331-intersection-of-multiple-arrays](https://github.com/srushti2403/DSA/tree/master/2331-intersection-of-multiple-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/srushti2403/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3227-find-missing-and-repeated-values](https://github.com/srushti2403/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/srushti2403/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ LeetCode
 | [1642-water-bottles](https://github.com/srushti2403/DSA/tree/master/1642-water-bottles) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/srushti2403/DSA/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3227-find-missing-and-repeated-values](https://github.com/srushti2403/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/srushti2403/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/srushti2403/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
 |  |
