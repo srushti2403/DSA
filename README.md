@@ -62,6 +62,7 @@ LeetCode
 | [0013-roman-to-integer](https://github.com/srushti2403/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/srushti2403/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/srushti2403/DSA/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/srushti2403/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/srushti2403/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/srushti2403/DSA/tree/master/0342-power-of-four) |
@@ -145,6 +146,7 @@ LeetCode
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/srushti2403/DSA/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/srushti2403/DSA/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/srushti2403/DSA/tree/master/0495-teemo-attacking) |
 | [1642-water-bottles](https://github.com/srushti2403/DSA/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/srushti2403/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -206,6 +208,7 @@ LeetCode
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/srushti2403/DSA/tree/master/0258-add-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/srushti2403/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Database
 |  |
