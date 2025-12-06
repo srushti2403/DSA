@@ -12,9 +12,9 @@ public:
 
         int diff = (sumA - sumB) / 2;
 
-        sort(bobSizes.begin(), bobSizes.end());
+        sort(bobSizes.begin(), bobSizes.end()); //bcoz we only need to do BS on bobSizes
 
-        for (int a : aliceSizes){
+        for (int a : aliceSizes){   //BS loop is inside for loop bcoz we need to perform BS for each of alice's boxes.
             int target_b = a - diff;
 
             int low = 0, high = m-1;
