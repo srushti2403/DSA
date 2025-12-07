@@ -69,6 +69,7 @@ LeetCode
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/srushti2403/DSA/tree/master/0342-power-of-four) |
 | [0830-largest-triangle-area](https://github.com/srushti2403/DSA/tree/master/0830-largest-triangle-area) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/srushti2403/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/srushti2403/DSA/tree/master/1642-water-bottles) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/srushti2403/DSA/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3227-find-missing-and-repeated-values](https://github.com/srushti2403/DSA/tree/master/3227-find-missing-and-repeated-values) |
