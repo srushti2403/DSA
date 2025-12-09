@@ -71,6 +71,7 @@ LeetCode
 | [0830-largest-triangle-area](https://github.com/srushti2403/DSA/tree/master/0830-largest-triangle-area) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/srushti2403/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/srushti2403/DSA/tree/master/1642-water-bottles) |
+| [1925-count-square-sum-triples](https://github.com/srushti2403/DSA/tree/master/1925-count-square-sum-triples) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/srushti2403/DSA/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3227-find-missing-and-repeated-values](https://github.com/srushti2403/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/srushti2403/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -228,4 +229,8 @@ LeetCode
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/srushti2403/DSA/tree/master/0225-implement-stack-using-queues) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/srushti2403/DSA/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
