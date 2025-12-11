@@ -21,6 +21,7 @@ LeetCode
 | [0169-majority-element](https://github.com/srushti2403/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 | [0495-teemo-attacking](https://github.com/srushti2403/DSA/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/srushti2403/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/srushti2403/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/srushti2403/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/srushti2403/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -49,6 +50,7 @@ LeetCode
 | [0169-majority-element](https://github.com/srushti2403/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/srushti2403/DSA/tree/master/0290-word-pattern) |
+| [0496-next-greater-element-i](https://github.com/srushti2403/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/srushti2403/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0888-fair-candy-swap](https://github.com/srushti2403/DSA/tree/master/0888-fair-candy-swap) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/srushti2403/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -202,6 +204,7 @@ LeetCode
 | [0155-min-stack](https://github.com/srushti2403/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/srushti2403/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/srushti2403/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/srushti2403/DSA/tree/master/0496-next-greater-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -236,4 +239,8 @@ LeetCode
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/srushti2403/DSA/tree/master/1925-count-square-sum-triples) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/srushti2403/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
