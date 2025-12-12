@@ -22,6 +22,7 @@ LeetCode
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 | [0495-teemo-attacking](https://github.com/srushti2403/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/srushti2403/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/srushti2403/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/srushti2403/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/srushti2403/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/srushti2403/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -205,6 +206,7 @@ LeetCode
 | [0225-implement-stack-using-queues](https://github.com/srushti2403/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/srushti2403/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/srushti2403/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/srushti2403/DSA/tree/master/0503-next-greater-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -243,4 +245,5 @@ LeetCode
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/srushti2403/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/srushti2403/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
