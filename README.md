@@ -31,6 +31,7 @@ LeetCode
 | [0792-binary-search](https://github.com/srushti2403/DSA/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/srushti2403/DSA/tree/master/0830-largest-triangle-area) |
 | [0888-fair-candy-swap](https://github.com/srushti2403/DSA/tree/master/0888-fair-candy-swap) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srushti2403/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/srushti2403/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/srushti2403/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/srushti2403/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -55,6 +56,7 @@ LeetCode
 | [0560-subarray-sum-equals-k](https://github.com/srushti2403/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0888-fair-candy-swap](https://github.com/srushti2403/DSA/tree/master/0888-fair-candy-swap) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/srushti2403/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srushti2403/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/srushti2403/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/srushti2403/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/srushti2403/DSA/tree/master/2331-intersection-of-multiple-arrays) |
@@ -109,6 +111,7 @@ LeetCode
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/srushti2403/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/srushti2403/DSA/tree/master/0888-fair-candy-swap) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srushti2403/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/srushti2403/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/srushti2403/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/srushti2403/DSA/tree/master/2331-intersection-of-multiple-arrays) |
@@ -246,4 +249,8 @@ LeetCode
 | ------- |
 | [0496-next-greater-element-i](https://github.com/srushti2403/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/srushti2403/DSA/tree/master/0503-next-greater-element-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srushti2403/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
