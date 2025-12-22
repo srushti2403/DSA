@@ -31,6 +31,7 @@ LeetCode
 | [0792-binary-search](https://github.com/srushti2403/DSA/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/srushti2403/DSA/tree/master/0830-largest-triangle-area) |
 | [0888-fair-candy-swap](https://github.com/srushti2403/DSA/tree/master/0888-fair-candy-swap) |
+| [0944-delete-columns-to-make-sorted](https://github.com/srushti2403/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srushti2403/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/srushti2403/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/srushti2403/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -123,6 +124,7 @@ LeetCode
 | [0013-roman-to-integer](https://github.com/srushti2403/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/srushti2403/DSA/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/srushti2403/DSA/tree/master/0290-word-pattern) |
+| [0944-delete-columns-to-make-sorted](https://github.com/srushti2403/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/srushti2403/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2401-count-asterisks](https://github.com/srushti2403/DSA/tree/master/2401-count-asterisks) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/srushti2403/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
