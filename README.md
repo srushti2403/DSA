@@ -32,6 +32,7 @@ LeetCode
 | [0830-largest-triangle-area](https://github.com/srushti2403/DSA/tree/master/0830-largest-triangle-area) |
 | [0888-fair-candy-swap](https://github.com/srushti2403/DSA/tree/master/0888-fair-candy-swap) |
 | [0944-delete-columns-to-make-sorted](https://github.com/srushti2403/DSA/tree/master/0944-delete-columns-to-make-sorted) |
+| [1037-valid-boomerang](https://github.com/srushti2403/DSA/tree/master/1037-valid-boomerang) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srushti2403/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/srushti2403/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/srushti2403/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -77,6 +78,7 @@ LeetCode
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/srushti2403/DSA/tree/master/0342-power-of-four) |
 | [0830-largest-triangle-area](https://github.com/srushti2403/DSA/tree/master/0830-largest-triangle-area) |
+| [1037-valid-boomerang](https://github.com/srushti2403/DSA/tree/master/1037-valid-boomerang) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/srushti2403/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/srushti2403/DSA/tree/master/1642-water-bottles) |
 | [1925-count-square-sum-triples](https://github.com/srushti2403/DSA/tree/master/1925-count-square-sum-triples) |
@@ -220,6 +222,7 @@ LeetCode
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/srushti2403/DSA/tree/master/0830-largest-triangle-area) |
+| [1037-valid-boomerang](https://github.com/srushti2403/DSA/tree/master/1037-valid-boomerang) |
 ## Combinatorics
 |  |
 | ------- |
