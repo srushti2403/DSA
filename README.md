@@ -36,6 +36,7 @@ LeetCode
 | [1037-valid-boomerang](https://github.com/srushti2403/DSA/tree/master/1037-valid-boomerang) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srushti2403/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/srushti2403/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/srushti2403/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/srushti2403/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/srushti2403/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/srushti2403/DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -117,6 +118,7 @@ LeetCode
 | [0888-fair-candy-swap](https://github.com/srushti2403/DSA/tree/master/0888-fair-candy-swap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srushti2403/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/srushti2403/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/srushti2403/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/srushti2403/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/srushti2403/DSA/tree/master/2331-intersection-of-multiple-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/srushti2403/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -183,6 +185,7 @@ LeetCode
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/srushti2403/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/srushti2403/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Recursion
 |  |
 | ------- |
