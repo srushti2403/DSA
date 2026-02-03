@@ -45,6 +45,7 @@ LeetCode
 | [2475-number-of-unequal-triplets-in-array](https://github.com/srushti2403/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/srushti2403/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/srushti2403/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3637-trionic-array-i](https://github.com/srushti2403/DSA/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
