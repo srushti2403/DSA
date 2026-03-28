@@ -21,6 +21,7 @@ LeetCode
 | [0169-majority-element](https://github.com/srushti2403/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/srushti2403/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/srushti2403/DSA/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/srushti2403/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/srushti2403/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/srushti2403/DSA/tree/master/0503-next-greater-element-ii) |
