@@ -29,7 +29,7 @@ public class Solution {
 
         //The result is build backward, so we need to reverse it at the end
         //result.ToString() turns StringBuilder into a plain string.
-        //.ToCharArray() splits that string into an array of chars.
+        //.ToCharArray() splits that string into an array of chars. This is easier to reverse in C#
         var arr = result.ToString().ToCharArray();
         Array.Reverse(arr);
         //string(arr) joins it back into a string.
