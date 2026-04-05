@@ -38,6 +38,7 @@ LeetCode
 | [0944-delete-columns-to-make-sorted](https://github.com/srushti2403/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1037-valid-boomerang](https://github.com/srushti2403/DSA/tree/master/1037-valid-boomerang) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srushti2403/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/srushti2403/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/srushti2403/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/srushti2403/DSA/tree/master/1470-shuffle-the-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/srushti2403/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -188,6 +189,7 @@ LeetCode
 | [0415-add-strings](https://github.com/srushti2403/DSA/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/srushti2403/DSA/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/srushti2403/DSA/tree/master/0657-robot-return-to-origin) |
+| [1389-create-target-array-in-the-given-order](https://github.com/srushti2403/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/srushti2403/DSA/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/srushti2403/DSA/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/srushti2403/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
