@@ -88,6 +88,7 @@ LeetCode
 | [0263-ugly-number](https://github.com/srushti2403/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/srushti2403/DSA/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/srushti2403/DSA/tree/master/0415-add-strings) |
 | [0830-largest-triangle-area](https://github.com/srushti2403/DSA/tree/master/0830-largest-triangle-area) |
 | [1037-valid-boomerang](https://github.com/srushti2403/DSA/tree/master/1037-valid-boomerang) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/srushti2403/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -142,6 +143,7 @@ LeetCode
 | [0013-roman-to-integer](https://github.com/srushti2403/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/srushti2403/DSA/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/srushti2403/DSA/tree/master/0290-word-pattern) |
+| [0415-add-strings](https://github.com/srushti2403/DSA/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/srushti2403/DSA/tree/master/0657-robot-return-to-origin) |
 | [0944-delete-columns-to-make-sorted](https://github.com/srushti2403/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/srushti2403/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -183,6 +185,7 @@ LeetCode
 | ------- |
 | [0054-spiral-matrix](https://github.com/srushti2403/DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/srushti2403/DSA/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/srushti2403/DSA/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/srushti2403/DSA/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/srushti2403/DSA/tree/master/0657-robot-return-to-origin) |
 | [1642-water-bottles](https://github.com/srushti2403/DSA/tree/master/1642-water-bottles) |
