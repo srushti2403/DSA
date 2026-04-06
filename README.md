@@ -46,6 +46,7 @@ LeetCode
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/srushti2403/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/srushti2403/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/srushti2403/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2293-min-max-game](https://github.com/srushti2403/DSA/tree/master/2293-min-max-game) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/srushti2403/DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/srushti2403/DSA/tree/master/2331-intersection-of-multiple-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/srushti2403/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -194,6 +195,7 @@ LeetCode
 | [1929-concatenation-of-array](https://github.com/srushti2403/DSA/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/srushti2403/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/srushti2403/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2293-min-max-game](https://github.com/srushti2403/DSA/tree/master/2293-min-max-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/srushti2403/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
