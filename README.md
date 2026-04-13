@@ -42,6 +42,7 @@ LeetCode
 | [1468-check-if-n-and-its-double-exist](https://github.com/srushti2403/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/srushti2403/DSA/tree/master/1470-shuffle-the-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/srushti2403/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/srushti2403/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/srushti2403/DSA/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/srushti2403/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/srushti2403/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
