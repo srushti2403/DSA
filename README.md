@@ -266,6 +266,7 @@ LeetCode
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/srushti2403/DSA/tree/master/0175-combine-two-tables) |
 | [0197-rising-temperature](https://github.com/srushti2403/DSA/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/srushti2403/DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/srushti2403/DSA/tree/master/0595-big-countries) |
