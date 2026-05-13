@@ -151,6 +151,7 @@ LeetCode
 | [0657-robot-return-to-origin](https://github.com/srushti2403/DSA/tree/master/0657-robot-return-to-origin) |
 | [0944-delete-columns-to-make-sorted](https://github.com/srushti2403/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/srushti2403/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1768-merge-strings-alternately](https://github.com/srushti2403/DSA/tree/master/1768-merge-strings-alternately) |
 | [2401-count-asterisks](https://github.com/srushti2403/DSA/tree/master/2401-count-asterisks) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/srushti2403/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Two Pointers
@@ -167,6 +168,7 @@ LeetCode
 | [0234-palindrome-linked-list](https://github.com/srushti2403/DSA/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/srushti2403/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/srushti2403/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1768-merge-strings-alternately](https://github.com/srushti2403/DSA/tree/master/1768-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/srushti2403/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/srushti2403/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/srushti2403/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
