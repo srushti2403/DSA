@@ -65,6 +65,7 @@ LeetCode
 | [0142-linked-list-cycle-ii](https://github.com/srushti2403/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srushti2403/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/srushti2403/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/srushti2403/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/srushti2403/DSA/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/srushti2403/DSA/tree/master/0389-find-the-difference) |
@@ -131,6 +132,7 @@ LeetCode
 | [0075-sort-colors](https://github.com/srushti2403/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/srushti2403/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/srushti2403/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/srushti2403/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/srushti2403/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/srushti2403/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/srushti2403/DSA/tree/master/0645-set-mismatch) |
@@ -149,6 +151,7 @@ LeetCode
 | ------- |
 | [0013-roman-to-integer](https://github.com/srushti2403/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/srushti2403/DSA/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/srushti2403/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/srushti2403/DSA/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/srushti2403/DSA/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/srushti2403/DSA/tree/master/0415-add-strings) |
