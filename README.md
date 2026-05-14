@@ -43,6 +43,7 @@ LeetCode
 | [1389-create-target-array-in-the-given-order](https://github.com/srushti2403/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/srushti2403/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/srushti2403/DSA/tree/master/1470-shuffle-the-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/srushti2403/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/srushti2403/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/srushti2403/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/srushti2403/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -144,6 +145,7 @@ LeetCode
 | [0888-fair-candy-swap](https://github.com/srushti2403/DSA/tree/master/0888-fair-candy-swap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srushti2403/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/srushti2403/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/srushti2403/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/srushti2403/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/srushti2403/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/srushti2403/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
