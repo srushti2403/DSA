@@ -158,6 +158,7 @@ LeetCode
 | ------- |
 | [0013-roman-to-integer](https://github.com/srushti2403/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/srushti2403/DSA/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/srushti2403/DSA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/srushti2403/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/srushti2403/DSA/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/srushti2403/DSA/tree/master/0389-find-the-difference) |
