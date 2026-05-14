@@ -44,6 +44,7 @@ LeetCode
 | [1468-check-if-n-and-its-double-exist](https://github.com/srushti2403/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/srushti2403/DSA/tree/master/1470-shuffle-the-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/srushti2403/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/srushti2403/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/srushti2403/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/srushti2403/DSA/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/srushti2403/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -101,6 +102,7 @@ LeetCode
 | [1037-valid-boomerang](https://github.com/srushti2403/DSA/tree/master/1037-valid-boomerang) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/srushti2403/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/srushti2403/DSA/tree/master/1642-water-bottles) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/srushti2403/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-square-sum-triples](https://github.com/srushti2403/DSA/tree/master/1925-count-square-sum-triples) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/srushti2403/DSA/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3227-find-missing-and-repeated-values](https://github.com/srushti2403/DSA/tree/master/3227-find-missing-and-repeated-values) |
