@@ -32,6 +32,7 @@ LeetCode
 | [0643-maximum-average-subarray-i](https://github.com/srushti2403/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/srushti2403/DSA/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/srushti2403/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/srushti2403/DSA/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/srushti2403/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/srushti2403/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/srushti2403/DSA/tree/master/0792-binary-search) |
@@ -211,6 +212,7 @@ LeetCode
 | [0415-add-strings](https://github.com/srushti2403/DSA/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/srushti2403/DSA/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/srushti2403/DSA/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/srushti2403/DSA/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/srushti2403/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/srushti2403/DSA/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/srushti2403/DSA/tree/master/1929-concatenation-of-array) |
@@ -262,6 +264,7 @@ LeetCode
 | [0234-palindrome-linked-list](https://github.com/srushti2403/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/srushti2403/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/srushti2403/DSA/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/srushti2403/DSA/tree/master/0682-baseball-game) |
 ## Prefix Sum
 |  |
 | ------- |
